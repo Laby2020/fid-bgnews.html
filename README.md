@@ -1,1 +1,1 @@
-# fid-blackgoose-bgnews.html
+# fid/blackgoose/bgnews.html
